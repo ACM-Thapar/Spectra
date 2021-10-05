@@ -1,6 +1,32 @@
 # Spectra
-This repository contains the source files for the official wesbite of ACM Thapar's annual flagship event - Spectra
-## Contribution to the project
+<div align = "center">
+
+<img height=200px src= "https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/acm%20logo.png">
+
+<h1>ACM-official-website</h1>
+
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/medium-icon.png?raw=true" width="60"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
+<a href=""><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+
+# ACM-Thapar
+
+![GitHub issues](https://img.shields.io/github/issues/ACM-Thapar/Spectra?style=flat-square&token=ANOHNVSU5PPKJXFZBZ5UXJ27BBNTO)
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+![GitHub repo size](https://img.shields.io/github/repo-size/ACM-Thapar/Spectra)
+
+
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+</div>
+
+
+# Contribution to the project
 
 <div align="center">
 
