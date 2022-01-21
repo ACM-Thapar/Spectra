@@ -101,12 +101,19 @@ h3{
 .btn-light{
     outline: none;
     border: none; 
+    text-decoration: underline;
 }
 
-.btn-light:hover, .btn-light:active, .btn-light:focus{
+.btn-light:hover, .btn-light:active{
     background-color: none;
     outline: none;
     border: none;
+    text-decoration: underline;
+    color: blue;
+}
+
+.btn-light:active{
+    color: purple;
 }
 
 #modalcf{
@@ -146,6 +153,16 @@ h3{
     font-style: normal;
     font-weight: bolder;
     text-align: center;
+}
+
+.btn-secondary:hover, .btn-secondary:active{
+    color: beige;
+    font-size: 14.5px;
+}
+
+.btn-secondary:focus{
+    color: white;
+    font-size: 14px;
 }
 
 .bar{
