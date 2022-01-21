@@ -3,29 +3,23 @@ html{
 }
 
 body{
-    
-    background-color: black;
-    /*background-image: url(Spectra\bg.jpg);*/
-    
-    background-image: radial-gradient(#490e2c ,#460b2b ,#450a2a ,#430627 ,#410426,#400325,#400023,#3d0021,#37001f,#36001c,#35001c,#34001c,#33001b,#32001b,#31001a,#300019,#300018,#2e0017,#2d0017,#2c0017,#2b0014,#2a0014,#270013,#250012,#240012,#220010,#20000f,#1e000c,#1b000b,#1d000c,#1a000a,#170008,#160007,#150007,#100005,#110006,#0f0005,#090001,#040001, black 70%);
-    
-    background-position: center;
     height: 1018px;
+    background-color: black;    
+    background-image: radial-gradient(#490e2c ,#460b2b ,#450a2a ,#430627 ,#410426,#400325,#400023,#3d0021,#37001f,#36001c,#35001c,#34001c,#33001b,#32001b,#31001a,#300019,#300018,#2e0017,#2d0017,#2c0017,#2b0014,#2a0014,#270013,#250012,#240012,#220010,#20000f,#1e000c,#1b000b,#1d000c,#1a000a,#170008,#160007,#150007,#100005,#110006,#0f0005,#090001,#040001, black 70%);
+    background-position: center;    
 }
 
-.container{
-    
-  display: flex;
-  flex-direction: column;
+.container{   
+    display: flex;
+    flex-direction: column;
 }
 
 .card{
+    height: 512px;
+    width: 316px;
     margin-top: 19vw;
-    
+    position: relative;
     overflow: hidden;
-   position: relative;
-   height: 512px;
-   width: 316px;
 }
 
 h3{
@@ -36,9 +30,9 @@ h3{
 .card-title{
     font-family: Josefin Sans;
     font-style: normal;
-    font-weight: 600;
     font-size: 32px;
     line-height: 32px;
+    font-weight: 600;
     letter-spacing: 0em;
     text-align: left;
 }
@@ -55,10 +49,10 @@ h3{
     top: 62.1%;
     bottom: 32.78%;
     font-family: Josefin Sans;
-    font-size: 16px;
     font-style: normal;
-    font-weight: 300;
+    font-size: 16px;
     line-height: 16px;
+    font-weight: 300;
     letter-spacing: 0em;
     text-align: left;
     color: #2F4F69;
@@ -70,18 +64,18 @@ h3{
     left: 15.2613525390625px;
     top: 356.8756103515625px;
     border-radius: nullpx;
-    font-family: Josefin Sans;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: normal;
-    line-height: 20px;
-    letter-spacing: 0em;
-    text-align: left;
     position: absolute;
     left: 4.83%;
     right: 3.41%;
     top: 69.7%;
     bottom: 10.77%;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-size: 18px;
+    line-height: 20px;
+    font-weight: normal;
+    letter-spacing: 0em;
+    text-align: left;
     color: #14191C;
 }
 
@@ -97,18 +91,16 @@ h3{
     top: 90.29%;
     bottom: 3.8%;
     font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: normal;
     font-size: 18px;
     line-height: 20px;
+    font-style: normal;
+    font-weight: normal;
     color: #0095B7;
 }
 
 .btn-light{
-    
     outline: none;
-    border: none;
-    
+    border: none; 
 }
 
 .btn-light:hover, .btn-light:active, .btn-light:focus{
@@ -117,70 +109,51 @@ h3{
     border: none;
 }
 
-
-
-
-
-
-
-
-
-
-
 #modalcf{
     background-color: rgba(0, 0, 0, 0.555);
-    
 }
-
 
 #modalcfTitle{
     color: #072227;
     font-family: Josefin Sans;
+    font-size: 36px;
     font-style: normal;
     font-weight: bolder;
-    font-size: 36px;
     text-align: center;
 }
 
 #modalsh{
-  background-color: rgba(0, 0, 0, 0.555);
-  
+    background-color: rgba(0, 0, 0, 0.555);
 }
 
-
 #modalshTitle{
-  color: #000278; 
-  font-family: Josefin Sans;
-  font-style: normal;
-  font-weight: bolder;
-  font-size: 36px;
-  text-align: center;
+    color: #000278; 
+    font-family: Josefin Sans;  
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
 }
 
 #modalpr{
-  background-color: rgba(0, 0, 0, 0.555);
-  
+    background-color: rgba(0, 0, 0, 0.555);
 }
-
 
 #modalprTitle{
-  color: #9B0000;
-  font-family: Josefin Sans;
-  font-style: normal;
-  font-weight: bolder;
-  font-size: 36px;
-  text-align: center;
+    color: #9B0000;
+    font-family: Josefin Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
 }
-
 
 .bar{
     position: relative;
 }
 
-
 .rect{   
     position: relative;
-    /*max-width: 770px; */
     max-width: 60vw;
     min-width: 5vw;
     height: 9px;
@@ -192,33 +165,27 @@ h3{
     transform: translate(-50%, -50%);
 }
 
-
-.steps {
+.steps{
     position: relative;
     display: flex;
-    
-    /*justify-content: space-between ;  */
-    /*justify-content: space-evenly; */
     justify-content: space-between ; 
     max-width: 62.026vw;
     min-width: 10vw;
-    /*margin-left: 330px;
-    margin-bottom: -10px; */
     top: 70px;
     left: 48%;
     transform: translate(-50%, -50%);
-  }
-  
-  .step {
+}
+
+.step{
     width: 25px;
     height: 25px;
     background: rgb(0, 0, 0);
     border: 2px solid #ACACA6;
     border-radius: 100%;
     transition: background 1s;
-  }
-  
-  .steplev0 {
+}
+
+.steplev0{
     width: 25px;
     height: 25px;
     background: rgb(190, 69, 22);
@@ -226,14 +193,15 @@ h3{
     border-radius: 100%;
     transition: background 1s;
     box-shadow: 0px 0px 40px 0px beige;
-  }
-  .steplev0:hover{
+}
+
+.steplev0:hover{
     box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
     border: 1.5px solid #ACACA6;
-  }
+}
  
 
-  .steplev1 {
+.steplev1{
     width: 25px;
     height: 25px;
     background: rgb(190, 69, 22);
@@ -241,12 +209,13 @@ h3{
     border-radius: 100%;
     transition: background 1s;
     box-shadow: 0px 0px 40px 0px beige;
-  }
-  .steplev1:hover{
-    box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
-  }
+}
 
-  .steplev2 {
+.steplev1:hover{
+    box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
+}
+
+.steplev2{
     width: 25px;
     height: 25px;
     background: rgb(190, 69, 22);
@@ -254,11 +223,8 @@ h3{
     border-radius: 100%;
     transition: background 1s;
     box-shadow: 0px 0px 40px 0px beige;
-  }
-  .steplev2:hover{
+}
+
+.steplev2:hover{
     box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
-  }
-
-  
-
- 
+} 
