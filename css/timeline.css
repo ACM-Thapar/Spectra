@@ -1,6 +1,7 @@
-html {
+html{
     min-height: 100%;
- }
+}
+
 body{
     
     background-color: black;
@@ -17,18 +18,7 @@ body{
   display: flex;
   flex-direction: column;
 }
-.btn-light{
-    
-    outline: none;
-    border: none;
-    
-}
 
-.btn-light:hover, .btn-light:active, .btn-light:focus{
-    background-color: none;
-    outline: none;
-    border: none;
-}
 .card{
     margin-top: 19vw;
     
@@ -38,21 +28,19 @@ body{
    width: 316px;
 }
 
-
- h3{
+h3{
     font-family: Josefin Sans;
     font-style: normal;
  }
 
 .card-title{
-font-family: Josefin Sans;
-font-style: normal;
-font-weight: 600;
-font-size: 32px;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: left;
-
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
 }
 
 .ab{
@@ -96,6 +84,48 @@ text-align: left;
     bottom: 10.77%;
     color: #14191C;
 }
+
+.down{
+    height: 20px;
+    width: 289.9659118652344px;
+    left: 15.2613525390625px;
+    top: 472.54638671875px;
+    border-radius: nullpx;
+    position: absolute;
+    left: 4.83%;
+    right: 3.41%;
+    top: 90.29%;
+    bottom: 3.8%;
+    font-family: Josefin Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 20px;
+    color: #0095B7;
+}
+
+.btn-light{
+    
+    outline: none;
+    border: none;
+    
+}
+
+.btn-light:hover, .btn-light:active, .btn-light:focus{
+    background-color: none;
+    outline: none;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
 
 #modalcf{
     background-color: rgba(0, 0, 0, 0.555);
@@ -143,23 +173,8 @@ text-align: left;
 }
 
 
-.down{
-    height: 20px;
-    width: 289.9659118652344px;
-    left: 15.2613525390625px;
-    top: 472.54638671875px;
-    border-radius: nullpx;
-    position: absolute;
-    left: 4.83%;
-    right: 3.41%;
-    top: 90.29%;
-    bottom: 3.8%;
-    font-family: Josefin Sans;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 18px;
-    line-height: 20px;
-    color: #0095B7;
+.bar{
+    position: relative;
 }
 
 
@@ -194,6 +209,15 @@ text-align: left;
     transform: translate(-50%, -50%);
   }
   
+  .step {
+    width: 25px;
+    height: 25px;
+    background: rgb(0, 0, 0);
+    border: 2px solid #ACACA6;
+    border-radius: 100%;
+    transition: background 1s;
+  }
+  
   .steplev0 {
     width: 25px;
     height: 25px;
@@ -207,14 +231,7 @@ text-align: left;
     box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
     border: 1.5px solid #ACACA6;
   }
-  .step {
-    width: 25px;
-    height: 25px;
-    background: rgb(0, 0, 0);
-    border: 2px solid #ACACA6;
-    border-radius: 100%;
-    transition: background 1s;
-  }
+ 
 
   .steplev1 {
     width: 25px;
@@ -242,8 +259,6 @@ text-align: left;
     box-shadow: 0px 0px 40px 10px rgb(189, 67, 18);
   }
 
-  .bar{
-      position: relative;
-  }
+  
 
  
