@@ -1,7 +1,5 @@
 # Spectra
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 <div align = "center">
 
 <img height=200px src= "https://raw.githubusercontent.com/ACM-Thapar/CS_COURSE_GUIDE/master/acm%20logo.png">
@@ -23,7 +21,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 </div>
@@ -64,6 +62,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Aviral1-jain"><img src="https://avatars.githubusercontent.com/u/74827110?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aviral1-jain</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=Aviral1-jain" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/PrasoonJain2002"><img src="https://avatars.githubusercontent.com/u/80613141?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Prasoon Jain</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=PrasoonJain2002" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/nandiniguptaz"><img src="https://avatars.githubusercontent.com/u/74641697?v=4" width="100px;" alt=""/><br /><sub><b>Nandini Gupta</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=nandiniguptaz" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Himanshipahuja"><img src="https://avatars.githubusercontent.com/u/72742160?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Himanshi Pahuja</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=Himanshipahuja" title="Code">💻</a></td>
   </tr>
 </table>
 
