@@ -15,6 +15,15 @@
         "maintenance",
         "mentoring"
       ]
+    },
+    {
+      "login": "rachana1009",
+      "name": "Rachana",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71558587?v=4",
+      "profile": "https://github.com/rachana1009",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
