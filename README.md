@@ -59,7 +59,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/gunjeevsingh"><img src="https://avatars.githubusercontent.com/u/65218249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gunjeev</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=gunjeevsingh" title="Code">💻</a> <a href="#maintenance-gunjeevsingh" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/gunjeevsingh"><img src="https://avatars.githubusercontent.com/u/65218249?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gunjeev</b></sub></a><br /><a href="https://github.com/ACM-Thapar/Spectra/commits?author=gunjeevsingh" title="Code">💻</a> <a href="#maintenance-gunjeevsingh" title="Maintenance">🚧</a> <a href="#mentoring-gunjeevsingh" title="Mentoring">🧑‍🏫</a></td>
   </tr>
 </table>
 
