@@ -26,13 +26,25 @@
       ]
     },
     {
-      "login": "PrasoonJain2002",
-      "name": "Prasoon Jain",
-      "avatar_url": "https://avatars.githubusercontent.com/u/80613141?v=4",
-      "profile": "https://github.com/PrasoonJain2002",
+
+      "login": "Aviral1-jain",
+      "name": "Aviral1-jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74827110?v=4",
+      "profile": "https://github.com/Aviral1-jain",
+
       "contributions": [
         "code"
       ]
+    },
+    {
+    "login": "PrasoonJain2002",
+      "name": "Prasoon Jain",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80613141?v=4",
+      "profile": "https://github.com/PrasoonJain2002",
+      
+      "contributions": [
+        "code"
+        ]
     }
   ],
   "contributorsPerLine": 7,
